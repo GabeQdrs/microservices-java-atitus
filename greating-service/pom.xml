@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.atitus</groupId>
-	<artifactId>greating-service-1</artifactId>
+	<artifactId>greating-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>greating-service-1</name>
+	<name>greating-service</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
